@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/io-sdk-csharp-dotnet/.vs/io-sdk-csharp-dotnet
+/io-sdk-csharp-dotnet/io-sdk-csharp-dotnet/bin/Debug
+/io-sdk-csharp-dotnet/io-sdk-csharp-dotnet/obj/Debug
+/io-sdk-csharp-dotnet/io-sdk-csharp-dotnet-test/bin/Debug
+/io-sdk-csharp-dotnet/io-sdk-csharp-dotnet-test/obj/Debug
+/io-sdk-csharp-dotnet/packages
+/.vs/io-sdk-csharp-dotnet
+/io-sdk-csharp-dotnet/bin/Debug
+/io-sdk-csharp-dotnet/obj/Debug
+/io-sdk-csharp-dotnet-test/bin/Debug
+/io-sdk-csharp-dotnet-test/obj/Debug
+/packages

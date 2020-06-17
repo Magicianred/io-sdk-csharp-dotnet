@@ -1,0 +1,15 @@
+{
+  "form": [
+    {
+      "type": "message",
+      "name": "note",
+      "description": "Connect to SQLServer db to import messages"
+    },
+    {
+      "name": "connectionstring",
+      "description": "ConnectionString",
+      "type": "string",
+      "required": true
+    }
+  ]
+}

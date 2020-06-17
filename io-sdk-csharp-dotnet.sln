@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "io-sdk-csharp-dotnet", "io-sdk-csharp-dotnet\io-sdk-csharp-dotnet.csproj", "{931DE302-7CBC-48AC-A2A7-22BF4C9EE68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "io-sdk-csharp-dotnet-test", "io-sdk-csharp-dotnet-test\io-sdk-csharp-dotnet-test.csproj", "{C94EE83A-8ED7-4D34-9616-5ED31363C90D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931DE302-7CBC-48AC-A2A7-22BF4C9EE68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931DE302-7CBC-48AC-A2A7-22BF4C9EE68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931DE302-7CBC-48AC-A2A7-22BF4C9EE68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931DE302-7CBC-48AC-A2A7-22BF4C9EE68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94EE83A-8ED7-4D34-9616-5ED31363C90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94EE83A-8ED7-4D34-9616-5ED31363C90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94EE83A-8ED7-4D34-9616-5ED31363C90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94EE83A-8ED7-4D34-9616-5ED31363C90D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F6D3DD-405E-427A-9019-878C286EC685}
+	EndGlobalSection
+EndGlobal
